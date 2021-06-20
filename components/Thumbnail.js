@@ -30,3 +30,4 @@ const Thumbnail = forwardRef(({result}, ref) => {
 })
 
 export default Thumbnail
+//export default Object.assign(props =>  { displayName: 'Thumbnail' });
